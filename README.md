@@ -1,9 +1,7 @@
 # Product_services
 
 ![image](https://github.com/melek227/Product_services/assets/62296109/d9734345-c0e3-48d5-9db5-f705f3fd9ad2)
-
 ![image](https://github.com/melek227/Product_services/assets/62296109/e6dc8e0e-13a6-4eb5-9b50-39b5422ace55)
-
 ![image](https://github.com/melek227/Product_services/assets/62296109/3184824d-7cab-4b75-88a8-222a314c62ed)
 ![image](https://github.com/melek227/Product_services/assets/62296109/d2af325c-e89e-4245-b780-4b95f91a9670)
 ![image](https://github.com/melek227/Product_services/assets/62296109/a626f316-dd63-4909-9b90-6e0b0fee63b3)
