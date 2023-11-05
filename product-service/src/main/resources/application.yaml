@@ -13,6 +13,8 @@ server:
   port: 9788
 
 ---
+
+
 spring:
   profiles: localhost
   cloud:
@@ -31,4 +33,20 @@ spring:
     password: Asdf@1234
 
 
-
+eureka:
+  instance:
+    instance-id: ${spring.application.name}:${random.uui}
+  client:
+    service-url: 
+       default-zone: http://localhost:8761/eureka/
+       
+       
+server:
+  port: 8762
+  
+zuul:
+  routes:
+    product-service:
+      path: /api/1.0/product/**
+      serviceId: product-service
+      strip-prefix: false

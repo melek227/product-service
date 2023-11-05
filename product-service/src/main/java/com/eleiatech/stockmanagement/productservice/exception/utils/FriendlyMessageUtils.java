@@ -15,6 +15,16 @@ import java.util.ResourceBundle;
 
  */
 
+/*================LOGLAMA======================
+ * uygulamanın çalışma zamanında bilgileri, hataları ve diğer durumları kaydetmek için kullanılır.
+ * uygulamanın nasıl çalıştığını izleme ve sorunları teşhis etme konusunda yardımcı olur.
+ * log.debug(...): Hata ayıklama amacıyla kullanılır ve en düşük günlükleme düzeyidir.
+ * log.info(...): Uygulamanın normal işleyişi hakkında bilgi vermek için kullanılır.
+ * log.warn(...): Uygulamanın hala çalıştığı ancak potansiyel sorunlar veya uyarılar içerdiği durumlarda
+ kullanılır.
+ * log.error(...): Hata ve istisnaları kaydetmek için kullanılır.
+ */
+
 
 
 @Slf4j //Hata verdiği blokta log ekleyeceğiz

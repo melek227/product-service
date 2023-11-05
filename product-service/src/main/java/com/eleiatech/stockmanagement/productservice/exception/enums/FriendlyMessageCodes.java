@@ -1,7 +1,11 @@
 package com.eleiatech.stockmanagement.productservice.exception.enums;
 
 public enum FriendlyMessageCodes implements IFriendlyMessageCode {
-    OK(1000);
+    OK(1000),
+	ERROR(1001),
+	PRODUCT_NOT_CREATED_EXCEPTİON(1500);
+	
+	
 	/*metod integer return eder.Bizim girdiğimiz value de integer.
 	 * Bu value yı return etmek için final değişken tanımladık
 	*/

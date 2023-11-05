@@ -1,20 +1,20 @@
-/Users/eleiatech/Documents/Repository/Projects/Stock Management/product-service/src/main/java/com/eleiatech/stockmanagement/productservice/repository/ProductRepository.java
-/Users/eleiatech/Documents/Repository/Projects/Stock Management/product-service/src/main/java/com/eleiatech/stockmanagement/productservice/response/FriendlyMessage.java
-/Users/eleiatech/Documents/Repository/Projects/Stock Management/product-service/src/main/java/com/eleiatech/stockmanagement/productservice/exception/enums/IFriendlyMessageCode.java
-/Users/eleiatech/Documents/Repository/Projects/Stock Management/product-service/src/main/java/com/eleiatech/stockmanagement/productservice/exception/utils/FriendlyMessageUtils.java
-/Users/eleiatech/Documents/Repository/Projects/Stock Management/product-service/src/main/java/com/eleiatech/stockmanagement/productservice/service/impl/ProductRepositoryServiceImpl.java
-/Users/eleiatech/Documents/Repository/Projects/Stock Management/product-service/src/main/java/com/eleiatech/stockmanagement/productservice/request/ProductCreateRequest.java
-/Users/eleiatech/Documents/Repository/Projects/Stock Management/product-service/src/main/java/com/eleiatech/stockmanagement/productservice/response/ProductResponse.java
-/Users/eleiatech/Documents/Repository/Projects/Stock Management/product-service/src/main/java/com/eleiatech/stockmanagement/productservice/repository/entity/Product.java
-/Users/eleiatech/Documents/Repository/Projects/Stock Management/product-service/src/main/java/com/eleiatech/stockmanagement/productservice/service/IProductRepositoryService.java
-/Users/eleiatech/Documents/Repository/Projects/Stock Management/product-service/src/main/java/com/eleiatech/stockmanagement/productservice/exception/exceptions/ProductNotCreatedException.java
-/Users/eleiatech/Documents/Repository/Projects/Stock Management/product-service/src/main/java/com/eleiatech/stockmanagement/productservice/response/InternalApiResponse.java
-/Users/eleiatech/Documents/Repository/Projects/Stock Management/product-service/src/main/java/com/eleiatech/stockmanagement/productservice/ProductServiceApplication.java
-/Users/eleiatech/Documents/Repository/Projects/Stock Management/product-service/src/main/java/com/eleiatech/stockmanagement/productservice/request/ProductUpdateRequest.java
-/Users/eleiatech/Documents/Repository/Projects/Stock Management/product-service/src/main/java/com/eleiatech/stockmanagement/productservice/exception/exceptions/ProductAlreadyDeletedException.java
-/Users/eleiatech/Documents/Repository/Projects/Stock Management/product-service/src/main/java/com/eleiatech/stockmanagement/productservice/enums/Language.java
-/Users/eleiatech/Documents/Repository/Projects/Stock Management/product-service/src/main/java/com/eleiatech/stockmanagement/productservice/exception/handler/GlobalExceptionHandler.java
-/Users/eleiatech/Documents/Repository/Projects/Stock Management/product-service/src/main/java/com/eleiatech/stockmanagement/productservice/exception/enums/FriendlyMessageCodes.java
-/Users/eleiatech/Documents/Repository/Projects/Stock Management/product-service/src/main/java/com/eleiatech/stockmanagement/productservice/controller/ProductController.java
-/Users/eleiatech/Documents/Repository/Projects/Stock Management/product-service/src/main/java/com/eleiatech/stockmanagement/productservice/exception/exceptions/ProductNotFoundException.java
-/Users/eleiatech/Documents/Repository/Projects/Stock Management/product-service/src/main/java/com/eleiatech/stockmanagement/productservice/configuration/SwaggerConfiguration.java
+C:\Users\melek\OneDrive\Masaüstü\mikro_servis\product-service\product-service\src\main\java\com\eleiatech\stockmanagement\productservice\exception\enums\IFriendlyMessageCode.java
+C:\Users\melek\OneDrive\Masaüstü\mikro_servis\product-service\product-service\src\main\java\com\eleiatech\stockmanagement\productservice\request\ProductUpdateRequest.java
+C:\Users\melek\OneDrive\Masaüstü\mikro_servis\product-service\product-service\src\main\java\com\eleiatech\stockmanagement\productservice\ProductServiceApplication.java
+C:\Users\melek\OneDrive\Masaüstü\mikro_servis\product-service\product-service\src\main\java\com\eleiatech\stockmanagement\productservice\enums\Language.java
+C:\Users\melek\OneDrive\Masaüstü\mikro_servis\product-service\product-service\src\main\java\com\eleiatech\stockmanagement\productservice\repository\ProductRepository.java
+C:\Users\melek\OneDrive\Masaüstü\mikro_servis\product-service\product-service\src\main\java\com\eleiatech\stockmanagement\productservice\exception\exceptions\ProductAlreadyDeletedException.java
+C:\Users\melek\OneDrive\Masaüstü\mikro_servis\product-service\product-service\src\main\java\com\eleiatech\stockmanagement\productservice\controller\ProductController.java
+C:\Users\melek\OneDrive\Masaüstü\mikro_servis\product-service\product-service\src\main\java\com\eleiatech\stockmanagement\productservice\exception\exceptions\ProductNotFoundException.java
+C:\Users\melek\OneDrive\Masaüstü\mikro_servis\product-service\product-service\src\main\java\com\eleiatech\stockmanagement\productservice\service\impl\ProductRepositoryServiceImpl.java
+C:\Users\melek\OneDrive\Masaüstü\mikro_servis\product-service\product-service\src\main\java\com\eleiatech\stockmanagement\productservice\exception\handler\GlobalExceptionHandler.java
+C:\Users\melek\OneDrive\Masaüstü\mikro_servis\product-service\product-service\src\main\java\com\eleiatech\stockmanagement\productservice\configuration\SwaggerConfiguration.java
+C:\Users\melek\OneDrive\Masaüstü\mikro_servis\product-service\product-service\src\main\java\com\eleiatech\stockmanagement\productservice\repository\entity\Product.java
+C:\Users\melek\OneDrive\Masaüstü\mikro_servis\product-service\product-service\src\main\java\com\eleiatech\stockmanagement\productservice\response\InternalApiResponse.java
+C:\Users\melek\OneDrive\Masaüstü\mikro_servis\product-service\product-service\src\main\java\com\eleiatech\stockmanagement\productservice\service\IProductRepositoryService.java
+C:\Users\melek\OneDrive\Masaüstü\mikro_servis\product-service\product-service\src\main\java\com\eleiatech\stockmanagement\productservice\exception\exceptions\ProductNotCreatedException.java
+C:\Users\melek\OneDrive\Masaüstü\mikro_servis\product-service\product-service\src\main\java\com\eleiatech\stockmanagement\productservice\exception\utils\FriendlyMessageUtils.java
+C:\Users\melek\OneDrive\Masaüstü\mikro_servis\product-service\product-service\src\main\java\com\eleiatech\stockmanagement\productservice\request\ProductCreateRequest.java
+C:\Users\melek\OneDrive\Masaüstü\mikro_servis\product-service\product-service\src\main\java\com\eleiatech\stockmanagement\productservice\response\ProductResponse.java
+C:\Users\melek\OneDrive\Masaüstü\mikro_servis\product-service\product-service\src\main\java\com\eleiatech\stockmanagement\productservice\exception\enums\FriendlyMessageCodes.java
+C:\Users\melek\OneDrive\Masaüstü\mikro_servis\product-service\product-service\src\main\java\com\eleiatech\stockmanagement\productservice\response\FriendlyMessage.java
